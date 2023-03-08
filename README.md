@@ -1,6 +1,14 @@
 # dom-array-project
 
-Project to practice high order array methods and DOM manipulation
+Project to practice array methods and DOM manipulation
+
+## Description
+
+Add User using 🧑:  async function and await fetch method  
+Double Money using 💰: data.map 
+Show only Millionaires using 💸: data.filter
+Sort by the Richest ⬆️: data.sort
+Calculate entire Wealth using 🧮: data.reduce
 
 ## Project Specifications
 
